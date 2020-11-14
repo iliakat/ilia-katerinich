@@ -1,0 +1,54 @@
+.b {
+    width: 350px;
+    height: 350px;
+    background-color: rgba(255, 255, 255, 0);
+    border: 30px white solid;
+    border-radius: 100px;
+    position: absolute;
+    left: 56px;
+    top: 60px;
+}
+
+.a {
+    width: 500px;
+    height: 500px;
+    background: linear-gradient(to top right, rgb(251, 255, 0), rgb(255, 8, 0), rgb(4, 0, 255));
+    border-radius: 100px;
+}
+
+.c {
+    width: 150px;
+    height: 150px;
+    background-color: rgba(255, 255, 255, 0);
+    border: 30px white solid;
+    border-radius: 1000px;
+    position: absolute;
+    left: 150px;
+    top: 150px;
+}
+
+.d {
+    background-color: purple;
+    width: 3px;
+    height: 3px;
+    background-color: white;
+    border: 12px white solid;
+    border-radius: 1000px;
+    position: absolute;
+    left: 375px;
+    top: 150px;
+}
+
+/* .e {
+    background-color: yellow;
+    width: 49.5%;
+    height: 200px;
+    display: inline-block;
+}
+
+.f {
+    background-color: black;
+    width: 49.5%;
+    height: 200px;
+    display: inline-block;
+} */
